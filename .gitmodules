@@ -1,0 +1,9 @@
+[submodule "bpc-rails-demo-nightwatch"]
+	path = bpc-rails-demo-nightwatch
+	url = https://github.com/wclaytor/bpc-rails-demo-nightwatch
+[submodule "bpc-rails-demo-playwright"]
+	path = bpc-rails-demo-playwright
+	url = https://github.com/wclaytor/bpc-rails-demo-playwright
+[submodule "bpc-rails-demo-cypress"]
+	path = bpc-rails-demo-cypress
+	url = https://github.com/wclaytor/bpc-rails-demo-cypress
